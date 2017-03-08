@@ -1,0 +1,17 @@
+{
+  "name": "iot-hub-node-node-getstarted",
+  "version": "1.0.0",
+  "description": "iot example using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "da.prieto1@uniandes.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.6",
+    "azure-iot-device": "^1.1.7",
+    "azure-iot-device-mqtt": "^1.1.7",
+    "azure-iothub": "^1.1.7"
+  }
+}
